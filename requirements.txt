@@ -1,0 +1,11 @@
+sentence-transformers==2.2.2 #to downloan the hugging facce 
+langchain #
+flask 
+pypdf 
+python-dotenv #here we mention the open ai credential adn pinecone credential
+pinecone [grpc] 
+langchain-pinecone 
+langchain_community 
+langchain_openai 
+langchain_experimental
+-e .
